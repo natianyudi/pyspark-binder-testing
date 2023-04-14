@@ -1,0 +1,1 @@
+git+https://github.com/apache/spark.git@v3.0.3#egg=pyspark
